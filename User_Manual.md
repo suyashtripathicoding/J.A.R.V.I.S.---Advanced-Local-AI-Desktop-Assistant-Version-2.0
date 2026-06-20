@@ -15,6 +15,10 @@ When you launch `jarvis.py`, the Core Interface initializes two primary hubs:
 ### Right Panel: The Chat Console
 * **Interaction History:** A scrolling log of your past inputs and JARVIS's responses.
 * **Silent Input:** A bottom text input box allowing you to execute commands silently by typing and pressing `Enter`.
+  <img width="1418" height="512" alt="iNTERFACE" src="https://github.com/user-attachments/assets/db7e2066-b63e-4464-b057-15cb10a69822" /> <img width="646" height="507" alt="image" src="https://github.com/user-attachments/assets/e47b3942-6482-443a-8a67-60ad55f74d8a" />
+
+
+
 
 ---
 
