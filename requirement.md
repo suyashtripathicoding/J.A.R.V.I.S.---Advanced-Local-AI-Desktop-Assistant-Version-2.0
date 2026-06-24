@@ -17,3 +17,5 @@ ollama>=0.1.6
 
 # Information Retrieval
 wikipedia>=1.4.0
+# Works On Python Version
+Python>= 3.11.9
