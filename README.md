@@ -65,6 +65,21 @@ Please reference the [MANUAL.md](MANUAL.md) file in this repository for a comple
 
 ---
 
+
+
+
+https://github.com/user-attachments/assets/4e0c4fb9-19a4-49a2-90fb-556a04dcebdb
+
+
+https://github.com/user-attachments/assets/b6adc21a-6787-4372-af85-a776826c7653
+
+
+
+
+
+
+
+
 ## ⚠️ Disclaimer
 
 This is an experimental AI automation tool. While safety filters (`is_code_safe`) are active to intercept destructive OS commands, the AI ultimately executes dynamic Python code (`pyautogui`) to interact with your system mouse and keyboard. **Do not leave the application unattended during complex automated tasks.**
