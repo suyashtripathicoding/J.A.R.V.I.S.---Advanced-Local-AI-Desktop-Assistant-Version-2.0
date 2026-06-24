@@ -58,7 +58,7 @@ python jarvis.py
 
 ## 📖 Documentation
 
-Please reference the [MANUAL.md](MANUAL.md) file in this repository for a complete breakdown of:
+Please reference the [MANUAL.md](User_Manual.md) file in this repository for a complete breakdown of:
 - Valid voice and text commands
 - Hand gesture instructions and mapping
 - System optimization tips
