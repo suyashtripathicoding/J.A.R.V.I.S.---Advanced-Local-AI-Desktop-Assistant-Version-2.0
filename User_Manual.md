@@ -81,10 +81,16 @@ Control your cursor via real-time computer vision tracking. This runs on an isol
 * **To Activate:** Say `"Activate gesture control"` or `"Turn on the camera"`.
 * **To Deactivate:** Press the `Q` key on your keyboard while the camera window is focused, or say `"Stop gesture"`.
 
-### 🎮 Gesture Mappings
-* **Cursor Movement:** Hold up your hand. Move your **Index Finger** to guide the mouse pointer. The model maps the center 60% of your camera stream to your entire screen boundary for ergonomic comfort.
-* **Left Click:** **Pinch** your index finger and thumb tightly together.
-* **Click-and-Drag / Highlight:** **Hold the Pinch** and shift your hand across the axis to drag windows or sweep across text strings.
+### Gestures Overview
+
+| Action | Hand Gesture | Description |
+| :--- | :--- | :--- |
+| **Move the Cursor** | ☝️ Index finger extended | Hold your hand up with your index finger pointing up. Move your hand around to control the mouse. *Note: JARVIS maps the center of the camera to your whole screen, so you do not need to stretch your arm too far.* |
+| **Left Click** | 🤏 Index + Thumb pinch | Pinch your index finger and thumb together quickly. |
+| **Click & Drag / Highlight** | ✊ Pinch and hold | Pinch your index finger and thumb together and hold them pinched while moving your hand. |
+| **Right Click** | 🤏 Middle + Thumb pinch | Pinch your middle finger and thumb together. |
+| **Scroll Up / Down** | ✌️ Index + Middle fingers | Hold up both your index and middle fingers (like a peace sign) while keeping your other fingers closed. Move your hand up and down to scroll through web pages or documents. |
+
 
 ---
 
